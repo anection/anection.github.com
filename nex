@@ -1,0 +1,9 @@
+name: "anection1"
+description: "a web log"
+
+url: "[http://anection.github.io/]"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
